@@ -55,6 +55,7 @@ rag-chatbot/
 
 
 ```
+---
 
 ## ⚙️ How to Run Locally
 
@@ -73,6 +74,7 @@ pip install -r requirements.txt
 4. Run the app:
 streamlit run app.py
 ```
+---
 
 🔐 Environment Setup
 For OpenAI (Optional):
@@ -80,6 +82,7 @@ In .streamlit/secrets.toml or in Streamlit Cloud settings:
 ```
 OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxx"
 ```
+---
 
 🧠 Use Cases:
 
@@ -96,10 +99,7 @@ Add custom screenshots here if needed (e.g., chat, upload, UI)
 
 ---
 
-👩‍💻 Author:
-
-Made with 💜 by Anusree Das
-
+👩‍💻 Author:  Made with 💜 by Anusree Das
 🔗 **GitHub**: [Anusree Das](https://github.com/AnusreeDas01)
 
 💼 **LinkedIn**: [Anusree Das](https://www.linkedin.com/in/anusree-das-01)
