@@ -41,21 +41,15 @@ The RAG Chatbot is a smart document-based Q&A assistant. Upload PDFs, DOCX, or T
 ## 📂 Folder Structure
 
 rag-chatbot/
-│
-├── streamlit_app.py            # ✅ Main Streamlit frontend app
-│
-├── main/                       # ✅ Core logic folder
-│   ├── utils.py                # File parsing, embedding generation
-│   ├── rag_engine.py           # RAG logic: load index, query LLM
-│   └── uploads/                # Temporary uploaded file storage (create empty)
-│
-├── assets/                     # ✅ For animations, logos, etc.
-│   └── virtual_assistant.json  # Your Lottie animation file
-│
-├── requirements.txt            # ✅ All Python dependencies
-│
-└── README.md                   # ✅ Project description
-
+├── streamlit_app.py           # 💻 Main Streamlit frontend app
+├── main/                      # 🧠 Core logic folder
+│   ├── utils.py               # 📄 File parsing, embedding generation
+│   ├── rag_engine.py          # 🧩 RAG logic: load index, query LLM
+│   └── uploads/               # 📁 Temporary uploaded file storage (can be empty)
+├── assets/                    # 🎨 For animations, logos, etc.
+│   └── virtual_assistant.json # 🤖 Your Lottie animation file
+├── requirements.txt           # 📦 Python dependencies
+└── README.md                  # 📘 Project documentation
 
 
 ---
