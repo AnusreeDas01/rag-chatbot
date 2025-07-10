@@ -1,4 +1,4 @@
-# 🤖 RAG Chatbot – Chat with Your Documents
+## 🤖 RAG Chatbot – Chat with Your Documents
 
 A conversational AI chatbot powered by **LLMs + RAG (Retrieval-Augmented Generation)** that allows you to upload documents and ask natural questions — and it answers using only the content of the files you uploaded.
 
@@ -99,7 +99,9 @@ Add custom screenshots here if needed (e.g., chat, upload, UI)
 
 ---
 
-## 👩‍💻 Author:  made with 💜 by Anusree Das
+## 👩‍💻 Author:  
+
+made with 💜 by Anusree Das
 
 🔗 **GitHub**: [Anusree Das](https://github.com/AnusreeDas01)
 
