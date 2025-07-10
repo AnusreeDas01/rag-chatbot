@@ -82,16 +82,19 @@ OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxx"
 ```
 
 🧠 Use Cases:
-```
-. Summarize HR or legal documents
-. Chat with your academic PDFs
-. Ask questions about internal process docs
-. Personal knowledge base assistant
-```
+
+- Summarize HR or legal documents
+- Chat with your academic PDFs
+- Ask questions about internal process docs
+- Personal knowledge base assistant
+
+---
 
 📸 Screenshots:
 
 Add custom screenshots here if needed (e.g., chat, upload, UI)
+
+---
 
 👩‍💻 Author:
 
