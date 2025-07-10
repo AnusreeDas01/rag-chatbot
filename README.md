@@ -40,7 +40,7 @@ The RAG Chatbot is a smart document-based Q&A assistant. Upload PDFs, DOCX, or T
 
 ## 📂 Folder Structure
 
-```bash
+```
 
 rag-chatbot/
 ├── streamlit_app.py           # 💻 Main Streamlit frontend app
@@ -58,7 +58,7 @@ rag-chatbot/
 
 ## ⚙️ How to Run Locally
 
-```bash
+```
 1. Clone the project:
 git clone https://github.com/AnusreeDas01/rag-chatbot.git
 cd rag-chatbot
@@ -81,15 +81,19 @@ In .streamlit/secrets.toml or in Streamlit Cloud settings:
 OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxx"
 ```
 
-🌐 Streamlit Deployment
+🌐 Streamlit Deployment:
+```
 App is deployed here 👉 https://rag-chatbot-01.streamlit.app/
 Hosted via Streamlit Cloud with public access. You can upload files, ask questions, download history, and reset everything cleanly.
+```
 
-🧠 Use Cases
+🧠 Use Cases:
+```
 . Summarize HR or legal documents
 . Chat with your academic PDFs
 . Ask questions about internal process docs
 . Personal knowledge base assistant
+```
 
 📸 Screenshots
 Add custom screenshots here if needed (e.g., chat, upload, UI)
