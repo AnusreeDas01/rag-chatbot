@@ -2,7 +2,7 @@
 
 A conversational AI chatbot powered by **LLMs + RAG (Retrieval-Augmented Generation)** that allows you to upload documents and ask natural questions — and it answers using only the content of the files you uploaded.
 
-🚀 **Live Demo**: [rag-chatbot-01.streamlit.app](https://rag-chatbot-01.streamlit.app/)
+🚀 **Live Demo**: [rag-chatbot.app](https://rag-chatbot-01.streamlit.app/)
 
 ---
 
@@ -39,7 +39,6 @@ The RAG Chatbot is a smart document-based Q&A assistant. Upload PDFs, DOCX, or T
 ---
 
 ## 📂 Folder Structure
-### 
 
 ```bash
 
@@ -55,11 +54,9 @@ rag-chatbot/
 └── README.md                  # 📘 Project documentation
 
 
----
+```
 
 ## ⚙️ How to Run Locally
-
-### 
 
 ```bash
 1. Clone the project:
@@ -97,7 +94,8 @@ Add custom screenshots here if needed (e.g., chat, upload, UI)
 👩‍💻 Author
 Made with 💜 by Anusree Das
 
-🔗 GitHub: AnusreeDas01
-💼 LinkedIn: Anusree Das
-🌐 Live App: rag-chatbot-01.streamlit.app
+🔗 **GitHub**: [Anusree Das](https://github.com/AnusreeDas01)
+💼 **LinkedIn**: [Anusree Das](https://www.linkedin.com/in/anusree-das-01)
+🌐 **Live Demo**: [rag-chatbot.app](https://rag-chatbot-01.streamlit.app/)
 
+```
