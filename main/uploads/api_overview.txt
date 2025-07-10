@@ -1,0 +1,1 @@
+GET /api/v1/users - Returns list of users.
