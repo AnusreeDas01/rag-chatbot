@@ -76,7 +76,7 @@ streamlit run app.py
 ```
 ---
 
-🔐 Environment Setup
+## 🔐 Environment Setup
 For OpenAI (Optional):
 In .streamlit/secrets.toml or in Streamlit Cloud settings:
 ```
@@ -84,7 +84,7 @@ OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxx"
 ```
 ---
 
-🧠 Use Cases:
+## 🧠 Use Cases:
 
 - Summarize HR or legal documents
 - Chat with your academic PDFs
@@ -93,13 +93,13 @@ OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxx"
 
 ---
 
-📸 Screenshots:
+## 📸 Screenshots:
 
 Add custom screenshots here if needed (e.g., chat, upload, UI)
 
 ---
 
-👩‍💻 Author:  Made with 💜 by Anusree Das
+## 👩‍💻 Author:  made with 💜 by Anusree Das
 
 🔗 **GitHub**: [Anusree Das](https://github.com/AnusreeDas01)
 
