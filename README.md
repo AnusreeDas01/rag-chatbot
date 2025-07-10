@@ -100,6 +100,7 @@ Add custom screenshots here if needed (e.g., chat, upload, UI)
 ---
 
 👩‍💻 Author:  Made with 💜 by Anusree Das
+
 🔗 **GitHub**: [Anusree Das](https://github.com/AnusreeDas01)
 
 💼 **LinkedIn**: [Anusree Das](https://www.linkedin.com/in/anusree-das-01)
