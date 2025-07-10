@@ -83,7 +83,7 @@ query = st.text_input("💬 Ask a question:", placeholder="What does the company
 if st.button("Send", use_container_width=True) and query:
     st.session_state.messages.append({"role": "user", "text": query})
 
-    with st.spinner("🤖 Thinking..."):
+    with st.spinner("Thinking..."):
         answer = rag_engine.generate_answer(query)
         st.session_state.messages.append({"role": "bot", "text": answer})
 
@@ -98,7 +98,9 @@ if st.session_state.messages:
         else:
             bubble_color = "#f9fafb"  # Light gray
             text_color = "#111827"
-            prefix = "🤖 <b>Bot</b>"
+            # prefix = "🤖 <b>Bot</b>"
+            prefix = "<img src='https://img.icons8.com/emoji/24/robot-emoji.png' style='vertical-align:middle;'> <b>Bot</b>"
+
 
         st.markdown(
             f"<div style='background-color:{bubble_color}; color:{text_color}; padding:12px; border-radius:10px; margin-bottom:10px;'>"
