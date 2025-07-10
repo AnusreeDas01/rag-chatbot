@@ -2,7 +2,7 @@
 
 A conversational AI chatbot powered by **LLMs + RAG (Retrieval-Augmented Generation)** that allows you to upload documents and ask natural questions — and it answers using only the content of the files you uploaded.
 
-🚀 **Live Demo**: [rag-chatbot.app](https://rag-chatbot-01.streamlit.app/)
+🚀 **Live Demo**: [rag-chatbot](https://rag-chatbot-01.streamlit.app/)
 
 ---
 
@@ -72,6 +72,7 @@ pip install -r requirements.txt
 
 4. Run the app:
 streamlit run streamlit_app.py
+```
 
 🔐 Environment Setup
 For OpenAI (Optional):
