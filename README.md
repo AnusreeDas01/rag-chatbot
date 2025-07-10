@@ -39,6 +39,9 @@ The RAG Chatbot is a smart document-based Q&A assistant. Upload PDFs, DOCX, or T
 ---
 
 ## 📂 Folder Structure
+### 
+
+```bash
 
 rag-chatbot/
 ├── streamlit_app.py           # 💻 Main Streamlit frontend app
