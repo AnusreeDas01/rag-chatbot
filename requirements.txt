@@ -1,0 +1,18 @@
+# Core
+streamlit
+sentence-transformers
+faiss-cpu
+
+# Document parsing
+PyMuPDF
+python-docx
+
+# Optional but useful
+numpy
+scikit-learn
+pandas
+
+
+#animations
+streamlit-lottie
+
