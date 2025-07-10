@@ -83,7 +83,7 @@ query = st.text_input("💬 Ask a question:", placeholder="What does the company
 if st.button("Send", use_container_width=True) and query:
     st.session_state.messages.append({"role": "user", "text": query})
 
-    with st.spinner("Thinking..."):
+    with st.spinner("Thinkinggg......."):
         answer = rag_engine.generate_answer(query)
         st.session_state.messages.append({"role": "bot", "text": answer})
 
