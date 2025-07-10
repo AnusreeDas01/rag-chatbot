@@ -77,7 +77,9 @@ streamlit run streamlit_app.py
 🔐 Environment Setup
 For OpenAI (Optional):
 In .streamlit/secrets.toml or in Streamlit Cloud settings:
+```
 OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxx"
+```
 
 🌐 Streamlit Deployment
 App is deployed here 👉 https://rag-chatbot-01.streamlit.app/
@@ -96,7 +98,8 @@ Add custom screenshots here if needed (e.g., chat, upload, UI)
 Made with 💜 by Anusree Das
 
 🔗 **GitHub**: [Anusree Das](https://github.com/AnusreeDas01)
+
 💼 **LinkedIn**: [Anusree Das](https://www.linkedin.com/in/anusree-das-01)
+
 🌐 **Live Demo**: [rag-chatbot.app](https://rag-chatbot-01.streamlit.app/)
 
-```
