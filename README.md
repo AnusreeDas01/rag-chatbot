@@ -42,24 +42,30 @@ The RAG Chatbot is a smart document-based Q&A assistant. Upload PDFs, DOCX, or T
 
 rag-chatbot/
 │
-├── app.py # Streamlit UI
-├── main/
-│ ├── utils.py # Embeddings & parsing
-│ ├── rag_engine.py # RAG answer engine
-│ └── uploads/ # Uploaded files folder
-├── assets/
-│ └── virtual_assistant.json # Lottie animation
-├── requirements.txt # Project dependencies
-└── README.md # This file 😉
+├── streamlit_app.py            # ✅ Main Streamlit frontend app
+│
+├── main/                       # ✅ Core logic folder
+│   ├── utils.py                # File parsing, embedding generation
+│   ├── rag_engine.py           # RAG logic: load index, query LLM
+│   └── uploads/                # Temporary uploaded file storage (create empty)
+│
+├── assets/                     # ✅ For animations, logos, etc.
+│   └── virtual_assistant.json  # Your Lottie animation file
+│
+├── requirements.txt            # ✅ All Python dependencies
+│
+└── README.md                   # ✅ Project description
+
 
 
 ---
 
 ## ⚙️ How to Run Locally
 
-### 1. Clone the project:
+### 
 
 ```bash
+1. Clone the project:
 git clone https://github.com/AnusreeDas01/rag-chatbot.git
 cd rag-chatbot
 
